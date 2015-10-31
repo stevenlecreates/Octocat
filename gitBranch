@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+You can create a branch using git checkout -b <branchname>. When you initialise a git repository, the default branch is master. Branches are used to make changes outside of the master branch.
