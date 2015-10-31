@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+Git clone essentially allows you to clone a repository. For example you can clone a repository that is on that is on github, locally to your computer. It will basically have the same content and allow you make changes and edits.
+ 
