@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is mostly used as the central repository to work from. The main branch that you are working from is usually referred to as the upstream.
